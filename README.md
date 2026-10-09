@@ -23,7 +23,7 @@ didalam dataset terdapat:
 ---
 ![Dashboard heatmap](Dashboard_Correlation_Heatmap.png)
 
-#### Setelah dibedah lebih dalam lagi tidak hanya pengalaman saja yang berhebungan dengan gaji, ternyata usia juga memili hubungan yang kuat dengan gaji di perusahaan 'x'
+#### Setelah dibedah lebih dalam lagi tidak hanya pengalaman saja yang berhubungan dengan gaji, ternyata usia juga memili hubungan yang kuat dengan gaji di perusahaan 'x'
 ----
 ## 📝 Kesimpulan
 
