@@ -13,4 +13,4 @@ didalam data terdapat:
 
 ## 📋 Hasil Analisis 
 
-![Perbandingan Rata-Rata Gaji Berdasarkan Pengalaman dan Pendidikan](Perbandingan Rata-Rat Gaji Berdasarkan Pengalaman dan Pendidikan.png)
+![Dashboard Perbandingan](Perbandingan_Rata-Rata_Gaji_Berdasarkan_Pengalama_dan_Pendidikan.png)
