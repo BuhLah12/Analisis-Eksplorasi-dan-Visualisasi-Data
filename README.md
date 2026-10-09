@@ -8,5 +8,9 @@ didalam data terdapat:
 | ----- |
 | `nama`, `jenis kelamin`, `umur`, `department`, `posisi`, `tahun pengalaman`, `pendidikan`, `gaji`, `skor performa`, `kehadiran`, `jam lembur`, `jam latihan`, `kepuasan kerja`, `status pernikahan`, `kota`, `promosi`, `pengurangan jumlah anggota`|
 
+
+---
+
 ## 📋 Hasil Analisis 
-!Dashboard 
+
+![Dashboard Perbandingan](Perbandingan Rata-Rat Gaji Berdasarkan Pengalaman dan Pendidikan.png)
